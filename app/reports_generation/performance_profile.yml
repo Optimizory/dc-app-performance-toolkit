@@ -5,7 +5,7 @@ runs:
   - runName: "without app"
     fullPath: "/home/ubuntu/dc-app-performance-toolkit/app/results/jira/2021-02-24_17-36-39/"
   - runName: "with app"
-    fullPath: "/home/ubuntu/dc-app-performance-toolkit/app/results/jira/2021-02-24_19-10-03"
+    fullPath: "/home/ubuntu/dc-app-performance-toolkit/app/results/jira/2021-02-24_19-10-03/"
 
 # Chart generation config
 index_col: "Action"
